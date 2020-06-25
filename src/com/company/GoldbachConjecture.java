@@ -29,5 +29,7 @@ public class GoldbachConjecture {
 
     }
 
-    private int[] findPrimes(int )
+    private int[] findPrimes(int ){
+
+    }
 }
