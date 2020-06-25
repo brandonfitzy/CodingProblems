@@ -54,13 +54,12 @@ public class GoldbachConjecture {
     }
 
     private boolean isPrime(int num){
-        boolean isPrime = false;
-        for (int iter = 1 ; iter < num ; iter++) {
-            if (num % iter == 0){
-                isPrime = false;
-            } else {
-                isPrime = true;
-            }
+        boolean isPrime = true;
+        for (int iter = 2 ; iter < num ; iter++) {
+
+                if (num % iter == 0) {
+                    isPrime = false;
+                }
         }
         return isPrime;
     }
