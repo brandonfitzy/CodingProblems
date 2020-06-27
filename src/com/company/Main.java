@@ -6,7 +6,8 @@ public class Main {
 //        FibonacciSequence.fibonacciSequenceCalculator();
 //        GoldbachConjecture goldbachConjecture = new GoldbachConjecture();
 //        goldbachConjecture.goldbachConjecture();
-        int[] arr = {10,3,5,2,1};
-        DCP556.canArrayBeDescendingIfOneElementIsChange(arr);
+//        int[] arr = {10,3,5,2,1};
+//        DCP556.canArrayBeDescendingIfOneElementIsChange(arr);
+        DCP557.findNumberOfXInNByNMultiplicationTable();
     }
 }
