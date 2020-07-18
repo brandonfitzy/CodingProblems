@@ -7,7 +7,7 @@ public class MaxAndMinFinder {
     public static void maxAndMinFInder(){
         int[] arr= {1,2,3,4,5};
         int min = arr[0];
-        int max = arr[1]
+        int max = arr[1];
         int counter = 0;
 
         for (int index = 2; index < arr.length ; index++) {
