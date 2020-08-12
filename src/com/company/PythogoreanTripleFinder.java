@@ -12,8 +12,9 @@ public class PythagoreanTripleFinder {
             pTriple[0] = a;
             pTriple[1] = b;
             pTriple[2] = c;
-            System.out.println("There is a Pythagorean ");
-        } else
+            System.out.println("There is a Pythagorean Triple: a = "+a+", b = "+b+", c = "+c);
+        } else {
+
 
 
         return pTriple;
