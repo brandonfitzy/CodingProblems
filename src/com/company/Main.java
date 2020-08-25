@@ -10,6 +10,7 @@ public class Main {
 //        DCP556.canArrayBeDescendingIfOneElementIsChange(arr);
 //        DCP557.findNumberOfXInNByNMultiplicationTable();
 //        DCP560.arrSum( 5 , arr);
-        MaxAndMinFinder.maxAndMinFInder();
+//        MaxAndMinFinder.maxAndMinFInder();
+        HIndex.hindex();
     }
 }
