@@ -11,6 +11,6 @@ public class Main {
 //        DCP557.findNumberOfXInNByNMultiplicationTable();
 //        DCP560.arrSum( 5 , arr);
 //        MaxAndMinFinder.maxAndMinFInder();
-        HIndex.hindex();
+        HIndex.hIndex();
     }
 }
