@@ -11,6 +11,7 @@ public class Main {
 //        DCP557.findNumberOfXInNByNMultiplicationTable();
 //        DCP560.arrSum( 5 , arr);
 //        MaxAndMinFinder.maxAndMinFInder();
-        HIndex.hIndex();
+//        HIndex.hIndex();
+        FibSeq.fibSeq(10);
     }
 }
