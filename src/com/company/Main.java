@@ -12,6 +12,7 @@ public class Main {
 //        DCP560.arrSum( 5 , arr);
 //        MaxAndMinFinder.maxAndMinFInder();
 //        HIndex.hIndex();
-        FibSeq.fibSeq(10);
+//        FibSeq.fibSeq(10);
+        PrimeFinder.primeFinder(100);
     }
 }
